@@ -1,0 +1,12 @@
+# Binary
+WKFormulas
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
