@@ -8,11 +8,12 @@ import (
 )
 
 func main() {
+	fmt.Println("# Tonality Formulas")
+	fmt.Println()
+
 	for i := 1; i <= 12; i++ {
 		printFormulasOfLength(i)
-		if i != 12 {
-			fmt.Println()
-		}
+		fmt.Println()
 	}
 }
 
